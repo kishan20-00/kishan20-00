@@ -1,7 +1,6 @@
 ### Hi there 👋 .... This is the projects I am currently working on.
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently studying Data Science in SLIIT
 - 🌱 I’m currently learning TensorFlow and ML algorithms
