@@ -1,6 +1,8 @@
 ### Hi there 👋 .... This is the projects I am currently working on.
 
 
+                                                                                                   ![](https://komarev.com/ghpvc/?username=kishan20-00&color=dc143c)
+
 
 - 🔭 I’m currently studying Data Science in SLIIT
 - 🌱 I’m currently learning TensorFlow and ML algorithms
@@ -10,7 +12,5 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm the JOKER!!!
 
-![](https://komarev.com/ghpvc/?username=kishan20-00&color=dc143c)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kishan20-00&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
