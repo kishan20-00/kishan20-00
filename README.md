@@ -1,7 +1,7 @@
 ### Hi there 👋 .... This is the projects I am currently working on.
 
 
-                                                                                                   ![](https://komarev.com/ghpvc/?username=kishan20-00&color=dc143c)
+![](https://komarev.com/ghpvc/?username=kishan20-00&color=dc143c)
 
 
 - 🔭 I’m currently studying Data Science in SLIIT
