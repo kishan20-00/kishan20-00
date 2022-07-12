@@ -12,3 +12,5 @@
 
 ![](https://komarev.com/ghpvc/?username=kishan20-00&color=dc143c)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
