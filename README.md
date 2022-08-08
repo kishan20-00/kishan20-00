@@ -12,6 +12,10 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm the JOKER!!!
 
+<b>Note : </b> These projects are not my own creation, but they are from references and resources which are from Medium and the Internet. The projects I have created in here, are the exercises which I used to train me.
+
+           !!!---THANK YOU---!!!
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kishan20-00&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
