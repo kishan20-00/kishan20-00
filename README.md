@@ -1,4 +1,4 @@
-### Hi there 👋 .... This is the Home of AI and ML related projects
+### Hi there 👋 .... I am Rajendra Kishan
 
 
 ![](https://komarev.com/ghpvc/?username=kishan20-00&color=dc143c)
