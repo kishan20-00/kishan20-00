@@ -82,8 +82,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kishan20-00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="kishan20-00 stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishan20-00&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kishan20-00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="kishan20-00 stats" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kishan20-00&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
 </p>
 
 <p align="center">
