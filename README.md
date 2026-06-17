@@ -9,7 +9,7 @@
 
 ### About me
 
-- 🔭 I'm currently working as an **AI Engineer at ai6**
+- 🔭 I'm currently working as an **AI Engineer at ai&**
 - 🌱 I'm currently working with **LLMs & Generative AI**, **PyTorch**, **Cloudflare**, and modern **backend systems**
 - 🛠️ Day-to-day I write **Python**, **TypeScript**, and ship APIs on **AWS** and **Cloudflare Workers**
 - 👯 I'm open to collaborating on **AI/ML** and **applied LLM** projects
