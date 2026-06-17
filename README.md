@@ -15,12 +15,15 @@
 - 👯 I'm open to collaborating on **AI/ML** and **applied LLM** projects
 - 💬 Ask me about **LLM applications**, **backend architecture**, or **deploying ML to production**
 - 📫 Reach me at **kishansteve@gmail.com**
+- 💬 **Quick chat?** Ping me on Signal — [`@Rajendra.09`](https://signal.me/#eu/zNO6RoK3gjp8zz9kkEF3BSNwSWCWFqPcgU81QrNnOY420Tv4Y4ZP77H0OzA9Gb86) (spam-resistant, no phone number needed)
 
 ---
 
 ### Connect with me
 
 <p align="left">
+  <a href="https://signal.me/#eu/zNO6RoK3gjp8zz9kkEF3BSNwSWCWFqPcgU81QrNnOY420Tv4Y4ZP77H0OzA9Gb86" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/signal.svg" alt="signal" height="28" width="28" /></a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/kishan20" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
   &nbsp;
   <a href="https://twitter.com/RajendraKir8se" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="x" height="28" width="28" /></a>
@@ -29,7 +32,7 @@
   &nbsp;
   <a href="https://github.com/kishan20-00" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="30" /></a>
   &nbsp;
-  <a href="<YOUR_WEBSITE_URL>" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlechrome.svg" alt="website" height="28" width="28" /></a>
+  <a href="https://kishan20-00.github.io/Rajendra-Kishan/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlechrome.svg" alt="website" height="28" width="28" /></a>
 </p>
 
 ---
